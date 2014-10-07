@@ -3,9 +3,9 @@ var app = playground({
   width: 320,
   height: 240,
 
-  scaleToFit: false,
+  scaleToFit: true,
 
-  smoothing: true,
+  smoothing: false,
 
   create: function() {
 
